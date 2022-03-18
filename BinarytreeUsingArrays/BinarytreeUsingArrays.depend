@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637323434 source:c:\users\babamitchell\desktop\c\binarytreeusingarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

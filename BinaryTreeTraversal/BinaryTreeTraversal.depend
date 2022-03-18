@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637416976 source:c:\users\babamitchell\desktop\c\binarytreetraversal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
