@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638658546 source:c:\users\babamitchell\desktop\c\queueprac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
