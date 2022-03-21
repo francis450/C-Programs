@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636792290 source:c:\users\babamitchell\desktop\c\linkedlistinsertatnpos\main.c
+	<stdio.h>
+	<stdlib.h>
+
